@@ -1,2 +1,2 @@
 ﻿# Python programs
- Some practice problems of python programs.
+ Some simple practice problems of python.
